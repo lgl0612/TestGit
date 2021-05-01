@@ -7,6 +7,7 @@ public class Test {
 		System.out.println("hello world");
 		System.out.println("TestGit02");
 		System.out.println("TestGit01");
+		System.out.println("edit on hot_fix");
 	}
 
 }
